@@ -1,0 +1,8 @@
+# Created at 2020-07-05T11:44:03.470
+A session is either terminated or not started
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'KSK', ip: '192.168.1.5', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_241'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: C:\HybridFramework\AppiumFr..., appActivity: com.androidsample.generalst..., appPackage: com.androidsample.generalstore, appWaitActivity: com.androidsample.generalst..., appWaitPackage: com.androidsample.generalstore, automationName: UiAutomator1, chromeOptions: {w3c: false}, databaseEnabled: false, desired: {app: C:\HybridFramework\AppiumFr..., automationName: UiAutomator1, chromeOptions: {w3c: false}, deviceName: Samsung, newCommandTimeout: 14, platformName: android}, deviceManufacturer: samsung, deviceModel: SM-J600G, deviceName: 3200f0fdb4e8753b, deviceScreenSize: 720x1480, deviceUDID: 3200f0fdb4e8753b, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, newCommandTimeout: 14, platform: LINUX, platformName: Android, platformVersion: 10, takesScreenshot: true, warnings: {}, webStorageEnabled: false}
+Session ID: 060b7a14-b313-43ac-96a7-3c54e23a6f3b
+
